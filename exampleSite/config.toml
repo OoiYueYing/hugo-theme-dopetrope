@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Dopetrope"
-baseURL = "http://localhost:1313/"
+baseURL = "http://OoiYueYing.github.io"
 theme = "../.."
 
 [params.portfolio]
@@ -9,7 +9,7 @@ theme = "../.."
     findoutmoretext = "Find out more"
 
 [params.blog]
-    title = "The Blog"
+    title = "My Blog"
     viewalltext = "View All"
     foldername = "blog"
 
